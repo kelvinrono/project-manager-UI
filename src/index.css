@@ -1,0 +1,8 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+:root{
+  --primary: #101a23;
+  --light-blue: #2094f3
+}
